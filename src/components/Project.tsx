@@ -2,7 +2,7 @@
 import React from 'react'
 import { PinContainer } from "./ui/3d-pin";
 
-import portfolioImg from "../../public/images/portfolio.png"
+import ecomImage from "../../public/images/ecom.png"
 import landingpageImg from "../../public/images/landingpage.png"
 import geminiImage from "../../public/images/gemini.png"
 import Image from 'next/image';
